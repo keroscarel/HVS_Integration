@@ -1,0 +1,24 @@
+{
+  "name": "node-red-project",
+  "description": "A Node-RED Project",
+  "version": "0.0.1",
+  "dependencies": {
+    "node-red-contrib-bigsplitter": "~1.0.3",
+    "node-red-contrib-fs-ops": "~1.4.0",
+    "node-red-contrib-ftp-download": "~1.0.4",
+    "node-red-contrib-ftp-env": "~1.5.0",
+    "node-red-contrib-geofence": "~0.2.4",
+    "node-red-contrib-gzip": "0.0.3",
+    "node-red-contrib-multipart-stream-decoder": "0.0.3",
+    "node-red-contrib-multipart-stream-encoder": "0.0.2",
+    "node-red-contrib-nbrowser": "~1.1.3",
+    "node-red-contrib-node-webcam": "0.0.3",
+    "node-red-contrib-uibuilder": "~1.0.6",
+    "node-red-contrib-web-worldmap": "^1.3.5",
+    "node-red-contrib-zip": "~1.0.0",
+    "node-red-dashboard": "~2.9.4",
+    "node-red-node-base64": "~0.1.3",
+    "node-red-node-snmp": "0.0.18",
+    "node-red-node-stomp": "0.0.11"
+  }
+}
